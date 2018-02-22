@@ -1,0 +1,10 @@
+#Tue Mar 07 08:53:09 EST 2017
+2\ age=12
+1\ age=12
+0\ age=12
+1\ chineseName=FENG
+2\ legalName=DENG
+2\ chineseName=chine
+1\ legalName=JAMES
+0\ legalName=KEVIN
+0\ chineseName=WEN LIANG
